@@ -1,7 +1,8 @@
-SGuard Limiter
-https://img.shields.io/github/license/luer4237/SGuardLimiter
-https://img.shields.io/badge/Platform-Windows-blue
-https://img.shields.io/badge/Language-PowerShell-blue
+# SGuard Limiter
+
+[![GitHub License](https://img.shields.io/github/license/luer4237/SGuardLimiter)](https://github.com/luer4237/SGuardLimiter)
+![Platform](https://img.shields.io/badge/Platform-Windows-blue)
+![Language](https://img.shields.io/badge/Language-PowerShell-blue)
 
 一个轻量级的PowerShell脚本，用于优化腾讯ACE（SGuard）反作弊进程的CPU资源占用，有效缓解游戏卡顿与系统延迟。
 
