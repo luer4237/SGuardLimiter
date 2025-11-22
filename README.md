@@ -1,6 +1,6 @@
 # SGuard Limiter
 
-[![GitHub License](https://img.shields.io/github/license/luer4237/SGuardLimiter)](https://github.com/luer4237/SGuardLimiter)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue)
 ![Language](https://img.shields.io/badge/Language-PowerShell-blue)
 
